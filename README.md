@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to FlameJS Pages
 
-You can use the [editor on GitHub](https://github.com/wincept/FlameJS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+FlameJS is an analogue of the FlaME, based on JavaScript technology (FlameJS), and has almost the same functionalities. It is now in beta testing phase. Minimum requirements as of now are: Operating System: Windows OS (7, 8, 10); Web Browsers Firefox, Chrome, Opera, MS Edge, Internet Explorer 11. Any testing results on other operating systems and in other web browsers are appreciated. FlameJS as The Web Toxlab tool [Link](http://toxlab.wincept.eu/tools/flamejs/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+FlaME (Flash Molecular Editor) is a molecular structure editor (molecule editing tool) for web pages, based on Flash technology. It is a Flash (single file) application for structure input on web pages, e.g. for database queries or property calculations. FlaME as The Web Toxlab tool [Link](http://toxlab.wincept.eu/tools/moledit/); read more...
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wincept/FlameJS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
