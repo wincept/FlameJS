@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>Flame JS Molecular Editor - The Web Toxlab Tools</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<meta name="author" content="Pavel Dallakian - Design H5, WinCept.EU, Winning Concepts">
+<meta name="description" content="Flame JavaScript (FlameJS) The Web Toxlab Tools - Design H5 by Winning Concepts, Vienna - 2017">
+<meta name="keywords" content="Flame JavaScript (FlameJS) - The Web Toxlab Tools">
+<link rel="stylesheet" href="css/fjs.css">
+</head>
+<body ondragstart="return false" ondrop="return false">
+<h4 class="unselectable">Flame JS Molecular Editor</h4>
+<div id="editor"></div>
+<div id="controls">
+<button onclick="searchMol()">search in The Web Toxlab</button>
+<button onclick="onoff('chidden');onoff('mol')">&hellip;</button>
+<span id="chidden" class="off">
+<button onclick="getMol()">get mol</button>
+<button onclick="setMol()">set mol</button>
+<button onclick="getRxn()">get rxn</button>
+<button onclick="setRxn()">set rxn</button>
+</span>
+</div>
+<script src="jsc/fjs01.js"></script>
+<script src="jsc/tx01.js"></script>
+</body>
+</html>
